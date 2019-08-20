@@ -1,5 +1,8 @@
-# Source TI - NOME DO PROJETO
-![logo](https://avatars0.githubusercontent.com/u/49046426?s=200&v=4) 
+
+<p align="center">
+<img src="https://avatars0.githubusercontent.com/u/49046426?s=200&v=4" alt="Source TI" />
+</p>   
+<h1 align="center">Source TI - NOME DO PROJETO</h1>
 
 ## BREVE DESCRIÇÃO
 
